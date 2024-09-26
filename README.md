@@ -45,4 +45,5 @@ A `train.py` and `test.py` script are included in the root of this repository fo
 
 ## License
 
-All code in this repository is licensed under the license specified in the root-level `LICENSE` file, unless otherwise specified in the file itself.
+All code in this repository is licensed under the license specified in the root-level `LICENSE` file, unless otherwise specified in the file itself,
+or if a subdirectory in this repository contains a README or LICENSE that specifies a different license - in which case the license specified in that readme or license file applies to the contents of that directory.
