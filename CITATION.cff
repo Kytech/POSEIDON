@@ -1,0 +1,41 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: POSEIDON-SAT
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kyler E.
+    family-names: Nelson
+    email: kyler.nelson@usu.edu
+    affiliation: Utah State University
+    orcid: 'https://orcid.org/0009-0007-6483-0184'
+repository-code: 'https://github.com/Kytech/POSEIDON-SAT'
+keywords:
+  - Fishing Vessel Detection
+  - Data Augmentation
+  - Optical Ship Detection
+  - Ship Detection
+  - Remote Sensing
+license: MIT
+commit: 6e2041d7ec88d12b93f5cf55ec5a811bc7f34df9
+date-released: '2024-05-01'
+preferred-citation:
+  type: article
+  thesis-type: Master's Thesis
+  title: Fishing Vessel Detection in Exclusive Economic Zones From Low Earth Orbit Satellites With Power and Computational Constraints
+  authors:
+    - given-names: Kyler E.
+      family-names: Nelson
+      email: kyler.nelson@usu.edu
+      affiliation: Utah State University
+      orcid: 'https://orcid.org/0009-0007-6483-0184'
+  year: 2024
+  journal: All Graduate Theses and Dissertations, Fall 2023 to Present
+  publisher:
+    name: Utah State University
+  number: 265
+  url: https://digitalcommons.usu.edu/etd2023/265/
