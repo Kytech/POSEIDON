@@ -1,4 +1,4 @@
-dataset_type = 'ShipRSImageNet_Augmented_Level3_Combined_Categories'
+dataset_type = 'ShipRSImageNet_Level3_Combined_Categories'
 # data_root = 'data/Ship_ImageNet/'
 data_root = './data/ShipRSImageNet_V1_Augmented/'
 

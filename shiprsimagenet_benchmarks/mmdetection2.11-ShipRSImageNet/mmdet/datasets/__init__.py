@@ -16,6 +16,7 @@ from .ShipRSImageNet_Level3 import ShipRSImageNet_Level3
 from .ShipRSImageNet_Level2 import ShipRSImageNet_Level2
 from .ShipRSImageNet_Level1 import ShipRSImageNet_Level1
 from .ShipRSImageNet_Level0 import ShipRSImageNet_Level0
+from .ShipRSImageNet_Level3_Combined_Categories import ShipRSImageNet_Level3_Combined_Categories
 __all__ = [
     'CustomDataset', 'XMLDataset', 'CocoDataset', 'DeepFashionDataset',
     'VOCDataset', 'CityscapesDataset', 'LVISDataset', 'LVISV05Dataset',
@@ -24,5 +25,5 @@ __all__ = [
     'ClassBalancedDataset', 'WIDERFaceDataset', 'DATASETS', 'PIPELINES',
     'build_dataset', 'replace_ImageToTensor', 'get_loading_pipeline',
     'NumClassCheckHook','ShipRSImageNet_Level3','ShipRSImageNet_Level2',
-    'ShipRSImageNet_Level1','ShipRSImageNet_Level0'
+    'ShipRSImageNet_Level1','ShipRSImageNet_Level0','ShipRSImageNet_Level3_Combined_Categories'
 ]
