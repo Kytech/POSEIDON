@@ -26,7 +26,7 @@ Other python scripts in the root of the repository are used to explore the datas
 
 All code in this repository expects the ShipRSImageNet dataset to be extracted to the root of the repository, such that the `ShipRSImageNet_V1` folder is a sibling to the `poseidon` folder.
 
-This respository expects datasets to be stored in a folder called `datasets` in the root of this repository (the directory is .gitignored). If you already have the `ultralytics` package installed and have used the `yolo` cli tool included with the package,
+This respository expects yolo-converted datasets to be configured for storage in a folder called `datasets` in the root of this repository (the directory is .gitignored). If you already have the `ultralytics` package installed and have used the `yolo` cli tool included with the `ultralytics` package,
 you may need to clear the `datasets_dir` yolo config option. Run `yolo cfg` to see if the `datasets_dir` option is set, and if it is, unset it/delete it from the global `settings.yml` used by the ultralytics package.
 
 ## Running the Augmentation Code
