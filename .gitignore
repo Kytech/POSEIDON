@@ -5,7 +5,7 @@
 runs
 
 # Dataset folders
-datasets
+/datasets
 ShipRSImageNet_V1*
 !ShipRSImageNet_V1*.yaml
 augmentation_candidates
