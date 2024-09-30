@@ -5,9 +5,8 @@
 runs
 
 # Dataset folders
-datasets
-ShipRSImageNet_V1*
-!ShipRSImageNet_V1*.yaml
+/datasets
+/ShipRSImageNet_V1*
 augmentation_candidates
 fishing_vessel_instances
 *.zip
